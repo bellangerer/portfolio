@@ -5,7 +5,7 @@ export const attributes = {
       link: '/#portfolio',
       text: 'Portfolio',
     },
-    heading: "I'm Paco Cu, and I create",
+    heading: "I'm Isabella Angerer, and I create",
     image: '/img/hero.jpeg',
     secondButton: { icon: 'whatsapp', link: '/#about', text: 'About me' },
     social: {
