@@ -10,4 +10,4 @@ Use `export` as build command
 yarn export
 ```
 
-Isabella
+Isabella Angerer
